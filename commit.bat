@@ -1,4 +1,4 @@
-@echo off 
+@echo off
 set /p str=Enter commit name:
-git add .
+git add --all
 git commit -m "%str%"
