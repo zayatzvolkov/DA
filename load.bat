@@ -47,3 +47,4 @@ git merge "dev"
 git add --all
 git commit -m "asm"
 git push
+git checkout "dev"
