@@ -10,6 +10,12 @@ int main(int argc, char ** argc)
     {
         printf("Need more param\n");
         return 1;
+    }else if(argc == 2)
+    {
+
+    }else
+    {
+        
     }
     return 0;
 }
