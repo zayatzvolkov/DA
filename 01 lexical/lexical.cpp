@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "lexical.h"
+#include "lexical.hpp"
 
 using namespace std;
 
