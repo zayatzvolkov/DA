@@ -1,2 +1,2 @@
-@echo off
-git push 
+@echo off 
+git push
