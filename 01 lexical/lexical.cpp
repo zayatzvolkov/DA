@@ -1,3 +1,13 @@
+/*
+	Name: lexical.cpp
+	Copyright: ALL Right Reserved 2018
+  Authors: Dmitry Bychkov
+           Artem Zaitsev
+	Date: 05.12.18 21:25
+	Description:
+    main lexical part of programming language DA
+*/
+
 #include <iostream>
 #include <string>
 #include "lexical.hpp"
@@ -15,7 +25,7 @@ int main(int argc, char ** argc)
 
     }else
     {
-        
+
     }
     return 0;
 }
